@@ -8,6 +8,7 @@ function App() {
       <Nayok></Nayok>
       <Nayok></Nayok>
       <Nayok></Nayok>
+      <Nayok></Nayok>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         
